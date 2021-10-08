@@ -191,15 +191,17 @@ const PLANETSINFO =[
         "geology": "./assets/geology-neptune.png"
       }
     }
-  ]
+]
 
 
-export default function planetsData({id={}}={}){
+export default function planetsData({id=''}={}){
  // let {name, overview, structure, geology, rotation, radius, temperature, images}
- if(id === {}){
-   return PLANETSINFO[id]
+ if(id === ''){
+   console.log(PLANETSINFO)
+   return PLANETSINFO
   }
    else{
+    console.log(PLANETSINFO[id])
     return PLANETSINFO[id]
    }  
 }

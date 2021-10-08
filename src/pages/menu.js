@@ -14,7 +14,7 @@ export default function Menu(){
        {
          planetas.map(planeta=>{
              console.log(planeta)
-         // return <a href="#">{planeta['name']}</a>
+          return <a href="#"> {planeta['name']}</a>
          })
        }
      </>
