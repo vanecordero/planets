@@ -1,4 +1,4 @@
-import planetsData from '../services/PlanetsData';
+import AllDataPLanets from '../../services/AllDataPLanets';
 import React, { useState, useEffect } from 'react';
 
 export default function Menu(){
@@ -6,15 +6,14 @@ export default function Menu(){
    const [planetas, setPlanetData] = useState([])
   
    useEffect(function(){
-      setPlanetData(planetsData())
+    setPlanetData(AllDataPLanets())
    },[])
- 
+  
    return (
      <>
        {
          planetas.map(planeta=>{
-             console.log(planeta)
-          return <a href="#"> {planeta['name']}</a>
+          return <a href="#" key={planeta.name}> {planeta['name']}</a>
          })
        }
      </>
