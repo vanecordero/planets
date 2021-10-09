@@ -6,8 +6,11 @@ export default function FooterData({elem}){
 const [footerInfo, setfooterInfo] = useState(AllDataPLanets({id:elem}))
 
   useEffect(()=>{
-      setfooterInfo(AllDataPLanets({id:elem}))
- },[])
+   setfooterInfo(AllDataPLanets({id:elem}))   
+ } ,[]) // eslint-disable-line react-hooks/exhaustive-deps
+
+
+
 
 return(
     <div>        
@@ -15,7 +18,6 @@ return(
            title="rotation time" 
            data={footerInfo[0]['rotation']}
         />
-
         <Card
            title="revolution time" 
            data={footerInfo[0]['revolution']}

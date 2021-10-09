@@ -19,9 +19,9 @@ export default function Planets(){
           "radius": "2,439.7 KM",
           "temperature": "430°c",
           "images": {
-            "planet": "./assets/planet-mercury.svg",
-            "internal": "./assets/planet-mercury-internal.svg",
-            "geology": "./assets/geology-mercury.png"
+            "planet": "/assets/img/planet-mercury.svg",
+            "internal": "/assets/img/planet-mercury-internal.svg",
+            "geology": "/assets/img/geology-mercury.png"
           }
         },
         {
@@ -43,9 +43,9 @@ export default function Planets(){
           "radius": "6,051.8 KM",
           "temperature": "471°c",
           "images": {
-            "planet": "./assets/planet-venus.svg",
-            "internal": "./assets/planet-venus-internal.svg",
-            "geology": "./assets/geology-venus.png"
+            "planet": "/assets/img/planet-venus.svg",
+            "internal": "/assets/img/planet-venus-internal.svg",
+            "geology": "/assets/img/geology-venus.png"
           }
         },
         {
@@ -67,9 +67,9 @@ export default function Planets(){
           "radius": "6,371 KM",
           "temperature": "16°c",
           "images": {
-            "planet": "./assets/planet-earth.svg",
-            "internal": "./assets/planet-earth-internal.svg",
-            "geology": "./assets/geology-earth.png"
+            "planet": "/assets/img/planet-earth.svg",
+            "internal": "/assets/img/planet-earth-internal.svg",
+            "geology": "/assets/img/geology-earth.png"
           }
         },
         {
@@ -91,9 +91,9 @@ export default function Planets(){
           "radius": "3,389.5 KM",
           "temperature": "-28°c",
           "images": {
-            "planet": "./assets/planet-mars.svg",
-            "internal": "./assets/planet-mars-internal.svg",
-            "geology": "./assets/geology-mars.png"
+            "planet": "/assets/img/planet-mars.svg",
+            "internal": "/assets/img/planet-mars-internal.svg",
+            "geology": "/assets/img/geology-mars.png"
           }
         },
         {
@@ -115,9 +115,9 @@ export default function Planets(){
           "radius": "69,911 KM",
           "temperature": "-108°c",
           "images": {
-            "planet": "./assets/planet-jupiter.svg",
-            "internal": "./assets/planet-jupiter-internal.svg",
-            "geology": "./assets/geology-jupiter.png"
+            "planet": "/assets/img/planet-jupiter.svg",
+            "internal": "/assets/img/planet-jupiter-internal.svg",
+            "geology": "/assets/img/geology-jupiter.png"
           }
         },
         {
@@ -139,9 +139,9 @@ export default function Planets(){
           "radius": "58,232 KM",
           "temperature": "-138°c",
           "images": {
-            "planet": "./assets/planet-saturn.svg",
-            "internal": "./assets/planet-saturn-internal.svg",
-            "geology": "./assets/geology-saturn.png"
+            "planet": "/assets/img/planet-saturn.svg",
+            "internal": "/assets/img/planet-saturn-internal.svg",
+            "geology": "/assets/img/geology-saturn.png"
           }
         },
         {
@@ -163,9 +163,9 @@ export default function Planets(){
           "radius": "25,362 KM",
           "temperature": "-195°c",
           "images": {
-            "planet": "./assets/planet-uranus.svg",
-            "internal": "./assets/planet-uranus-internal.svg",
-            "geology": "./assets/geology-uranus.png"
+            "planet": "/assets/img/planet-uranus.svg",
+            "internal": "/assets/img/planet-uranus-internal.svg",
+            "geology": "/assets/img/geology-uranus.png"
           }
         },
         {
@@ -187,9 +187,9 @@ export default function Planets(){
           "radius": "24,622 KM",
           "temperature": "-201°c",
           "images": {
-            "planet": "./assets/planet-neptune.svg",
-            "internal": "./assets/planet-neptune-internal.svg",
-            "geology": "./assets/geology-neptune.png"
+            "planet": "/assets/img/planet-neptune.svg",
+            "internal": "/assets/img/planet-neptune-internal.svg",
+            "geology": "/assets/img/geology-neptune.png"
           }
         }
     ]
