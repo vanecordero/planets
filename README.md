@@ -1,9 +1,7 @@
 <h1>Planets facts challenge</h1>
-<hr>
 <p>This it's my solition for the challenge on <a href="https://www.frontendmentor.io/challenges/planets-fact-site-gazqN8w_f" target="_blank">Planets fact site</a>
   
 <h2>Overview</h2>
-  <hr>
   <h3>The challenge</h3>
   <p>build out this 8-page planets fact site.</p>
   <ol>
@@ -17,14 +15,12 @@
   </ol>
   
   <h2>Build with</h2>
-   <hr>
    <ul>
     <li>React</li>
      <li>Flexbox (CSS)</li>
    </ul>
   
   <h2>Screenshots</h2>
-   <hr>
    <h3>Home</h3>
    <p>Desktop</>
    ![image](https://user-images.githubusercontent.com/47092867/136715053-17dc47eb-3d1e-4b91-92ae-010a220763a3.png)
