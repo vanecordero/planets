@@ -26,15 +26,14 @@
   <img src="https://user-images.githubusercontent.com/47092867/136715053-17dc47eb-3d1e-4b91-92ae-010a220763a3.png" />
   
   <p>Mobile</p>
-  ![image](https://user-images.githubusercontent.com/47092867/136715075-ce27e365-1f35-457a-b3d9-7410564a1c30.png)
+  <img src="https://user-images.githubusercontent.com/47092867/136715075-ce27e365-1f35-457a-b3d9-7410564a1c30.png"/>
 
 <h3>Planets info</h3>
 <p>Desktop</p>
-![image](https://user-images.githubusercontent.com/47092867/136715107-151da46c-9e62-4e44-bfeb-2bed952ba5ba.png)
+<img src="https://user-images.githubusercontent.com/47092867/136715107-151da46c-9e62-4e44-bfeb-2bed952ba5ba.png"/>
 
 <p>Tablet</p>
-![image](https://user-images.githubusercontent.com/47092867/136715137-25a1d8c8-1ac1-40a3-b33f-e9d3c635e20d.png)
+<img src="https://user-images.githubusercontent.com/47092867/136715137-25a1d8c8-1ac1-40a3-b33f-e9d3c635e20d.png"/>
 
 <p>Mobile</p>
-![image](https://user-images.githubusercontent.com/47092867/136715177-bb07465a-a25a-43e5-92ac-b53254368f4f.png)
-
+<img src="https://user-images.githubusercontent.com/47092867/136715177-bb07465a-a25a-43e5-92ac-b53254368f4f.png"/>
