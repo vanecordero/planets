@@ -23,7 +23,8 @@
   <h2>Screenshots</h2>
    <h3>Home</h3>
    <p>Desktop</>
-   ![image](https://user-images.githubusercontent.com/47092867/136715053-17dc47eb-3d1e-4b91-92ae-010a220763a3.png)
+  <img src="https://user-images.githubusercontent.com/47092867/136715053-17dc47eb-3d1e-4b91-92ae-010a220763a3.png" />
+  
   <p>Mobile</p>
   ![image](https://user-images.githubusercontent.com/47092867/136715075-ce27e365-1f35-457a-b3d9-7410564a1c30.png)
 
