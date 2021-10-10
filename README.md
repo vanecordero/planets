@@ -4,7 +4,7 @@
 <h2>Overview</h2>
   <h3>The challenge</h3>
   <p>build out this 8-page planets fact site.</p>
-  <ol>
+  <ul>
     <li>Users should be able to:
       <ul>
         <li>View the optimal layout for the app depending on their device's screen size.</li>
@@ -12,7 +12,7 @@
         <li>View each planet page and toggle between the "Overview", "Internal Structure", and "Surface Geology" tabs.</li>
       </ul>
     </li>
-  </ol>
+  </ul>
   
   <h2>Build with</h2>
    <ul>
