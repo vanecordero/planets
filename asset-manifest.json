@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/planets/static/css/main.567b1ccd.chunk.css",
-    "main.js": "/planets/static/js/main.ff9ebfcd.chunk.js",
-    "main.js.map": "/planets/static/js/main.ff9ebfcd.chunk.js.map",
+    "main.js": "/planets/static/js/main.b859d930.chunk.js",
+    "main.js.map": "/planets/static/js/main.b859d930.chunk.js.map",
     "runtime-main.js": "/planets/static/js/runtime-main.a3511e95.js",
     "runtime-main.js.map": "/planets/static/js/runtime-main.a3511e95.js.map",
     "static/js/2.51b26a77.chunk.js": "/planets/static/js/2.51b26a77.chunk.js",
@@ -12,12 +12,38 @@
     "index.html": "/planets/index.html",
     "static/css/main.567b1ccd.chunk.css.map": "/planets/static/css/main.567b1ccd.chunk.css.map",
     "static/js/2.51b26a77.chunk.js.LICENSE.txt": "/planets/static/js/2.51b26a77.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/planets/static/media/stars.f6233a6a.svg"
+    "static/media/geology-earth.61d2b324.png": "/planets/static/media/geology-earth.61d2b324.png",
+    "static/media/geology-jupiter.93e4e021.png": "/planets/static/media/geology-jupiter.93e4e021.png",
+    "static/media/geology-mars.d3ffce8e.png": "/planets/static/media/geology-mars.d3ffce8e.png",
+    "static/media/geology-mercury.4a88beea.png": "/planets/static/media/geology-mercury.4a88beea.png",
+    "static/media/geology-neptune.d1247e41.png": "/planets/static/media/geology-neptune.d1247e41.png",
+    "static/media/geology-saturn.b309827a.png": "/planets/static/media/geology-saturn.b309827a.png",
+    "static/media/geology-uranus.8cec343d.png": "/planets/static/media/geology-uranus.8cec343d.png",
+    "static/media/geology-venus.484f9dac.png": "/planets/static/media/geology-venus.484f9dac.png",
+    "static/media/planet-earth-internal.3c465186.svg": "/planets/static/media/planet-earth-internal.3c465186.svg",
+    "static/media/planet-earth.4d12af96.svg": "/planets/static/media/planet-earth.4d12af96.svg",
+    "static/media/planet-jupiter-internal.3087313d.svg": "/planets/static/media/planet-jupiter-internal.3087313d.svg",
+    "static/media/planet-jupiter.b1d0956b.svg": "/planets/static/media/planet-jupiter.b1d0956b.svg",
+    "static/media/planet-mars-internal.d867ac80.svg": "/planets/static/media/planet-mars-internal.d867ac80.svg",
+    "static/media/planet-mars.f9dc1ca4.svg": "/planets/static/media/planet-mars.f9dc1ca4.svg",
+    "static/media/planet-mercury-internal.217aa79d.svg": "/planets/static/media/planet-mercury-internal.217aa79d.svg",
+    "static/media/planet-mercury.a9cbc3e3.svg": "/planets/static/media/planet-mercury.a9cbc3e3.svg",
+    "static/media/planet-neptune-internal.3ebd623e.svg": "/planets/static/media/planet-neptune-internal.3ebd623e.svg",
+    "static/media/planet-neptune.af322961.svg": "/planets/static/media/planet-neptune.af322961.svg",
+    "static/media/planet-saturn-internal.e883c559.svg": "/planets/static/media/planet-saturn-internal.e883c559.svg",
+    "static/media/planet-saturn.801f886a.svg": "/planets/static/media/planet-saturn.801f886a.svg",
+    "static/media/planet-uranus-internal.578233c6.svg": "/planets/static/media/planet-uranus-internal.578233c6.svg",
+    "static/media/planet-uranus.e91b297f.svg": "/planets/static/media/planet-uranus.e91b297f.svg",
+    "static/media/planet-venus-internal.1a94aa02.svg": "/planets/static/media/planet-venus-internal.1a94aa02.svg",
+    "static/media/planet-venus.db5a3444.svg": "/planets/static/media/planet-venus.db5a3444.svg",
+    "static/media/shootingStar.f31deeb9.gif": "/planets/static/media/shootingStar.f31deeb9.gif",
+    "static/media/index.css": "/planets/static/media/stars.f6233a6a.svg",
+    "static/media/sun.f191903e.svg": "/planets/static/media/sun.f191903e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a3511e95.js",
     "static/js/2.51b26a77.chunk.js",
     "static/css/main.567b1ccd.chunk.css",
-    "static/js/main.ff9ebfcd.chunk.js"
+    "static/js/main.b859d930.chunk.js"
   ]
 }
