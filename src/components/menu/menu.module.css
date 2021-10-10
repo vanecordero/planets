@@ -1,0 +1,35 @@
+
+.menu{
+    justify-content: space-between;
+    text-transform:uppercase;
+    padding: 1.5rem 0.7rem;
+    border-bottom: 1px solid #37364d;
+}
+
+.menu_title{
+    justify-content:center;
+    color: #FFF;
+}
+.menu_title:hover{
+    cursor: pointer;    
+}
+.menu_title{
+    margin: 0;
+}
+.menu_cnt{
+    justify-content: end;
+}
+.menu_options li> span{
+    font-size: 0.8rem;
+    color: rgb(219, 219, 221);
+    font-weight: bold;
+    justify-content: space-between;
+    align-items:center;
+}
+.menu_options li> span{   
+    margin-left: 0.7rem;
+}
+.menu_options >li> span:hover{
+    cursor: pointer;
+    color: #FFF;    
+}

@@ -1,11 +1,16 @@
 import React from "react";
 
-const Image = ({url, descrip, after, onClick}) =>(
-   <img
-    src={url}
-    alt={descrip}
-    onClick={(event=> onClick(event))}
-   />
+
+const Image = ({className, url, descrip}) =>(
+      <div 
+      className={className}>
+         <img
+         src={url}
+         alt={descrip}
+         />
+         <span></span>
+      </div>
 )
 
 export default Image
+

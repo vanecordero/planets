@@ -1,0 +1,46 @@
+.card_container{
+    display: flex;
+    color: #fff;
+    justify-content: space-around;
+    margin-top: 5rem;
+    text-transform: uppercase;
+}
+
+.card_container> div{
+    padding-top: 1rem;
+    margin-bottom: 2rem;
+    border: 1px solid #37364d;
+    width: 20%;
+    text-align: center;
+    font-weight: bold;    
+}
+.card_container> div> p:nth-child(1){
+    font-size: 0.6rem;  
+    color: #acabb9;  
+}
+.card_container> div> p:nth-child(2){
+    font-size: 1.4rem; 
+}
+
+@media (max-width: 767px) {
+    
+    .card_container{
+        flex-direction: column;
+        align-items: center;
+        margin-top: 1rem;
+    }
+    .card_container> div{
+        width: 80%;   
+        padding: 0.2rem 1rem;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .card_container> div> p:nth-child(1),.card_container> div> p:nth-child(2){
+        margin-bottom: 0;
+    }
+    
+ }
+
+
+

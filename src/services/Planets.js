@@ -21,7 +21,7 @@ export default function Planets(){
           "images": {
             "planet": "/assets/img/planet-mercury.svg",
             "internal": "/assets/img/planet-mercury-internal.svg",
-            "geology": "/assets/img/geology-mercury.png"
+            "geology": "assets/img/geology-mercury.png"
           }
         },
         {
@@ -45,7 +45,7 @@ export default function Planets(){
           "images": {
             "planet": "/assets/img/planet-venus.svg",
             "internal": "/assets/img/planet-venus-internal.svg",
-            "geology": "/assets/img/geology-venus.png"
+            "geology": "assets/img/geology-venus.png"
           }
         },
         {
@@ -69,7 +69,7 @@ export default function Planets(){
           "images": {
             "planet": "/assets/img/planet-earth.svg",
             "internal": "/assets/img/planet-earth-internal.svg",
-            "geology": "/assets/img/geology-earth.png"
+            "geology": "assets/img/geology-earth.png"
           }
         },
         {
@@ -93,7 +93,7 @@ export default function Planets(){
           "images": {
             "planet": "/assets/img/planet-mars.svg",
             "internal": "/assets/img/planet-mars-internal.svg",
-            "geology": "/assets/img/geology-mars.png"
+            "geology": "assets/img/geology-mars.png"
           }
         },
         {
@@ -117,7 +117,7 @@ export default function Planets(){
           "images": {
             "planet": "/assets/img/planet-jupiter.svg",
             "internal": "/assets/img/planet-jupiter-internal.svg",
-            "geology": "/assets/img/geology-jupiter.png"
+            "geology": "assets/img/geology-jupiter.png"
           }
         },
         {
@@ -141,7 +141,7 @@ export default function Planets(){
           "images": {
             "planet": "/assets/img/planet-saturn.svg",
             "internal": "/assets/img/planet-saturn-internal.svg",
-            "geology": "/assets/img/geology-saturn.png"
+            "geology": "assets/img/geology-saturn.png"
           }
         },
         {
@@ -165,7 +165,7 @@ export default function Planets(){
           "images": {
             "planet": "/assets/img/planet-uranus.svg",
             "internal": "/assets/img/planet-uranus-internal.svg",
-            "geology": "/assets/img/geology-uranus.png"
+            "geology": "assets/img/geology-uranus.png"
           }
         },
         {
@@ -189,7 +189,7 @@ export default function Planets(){
           "images": {
             "planet": "/assets/img/planet-neptune.svg",
             "internal": "/assets/img/planet-neptune-internal.svg",
-            "geology": "/assets/img/geology-neptune.png"
+            "geology": "assets/img/geology-neptune.png"
           }
         }
     ]
