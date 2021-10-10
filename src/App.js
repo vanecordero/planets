@@ -56,7 +56,6 @@ function App() {
           component={Venus}
           path='/Venus'
         />
-        <div><Home/></div>
     </>
   )
 }

@@ -98,6 +98,7 @@
         border: none;
         margin: 1rem 0.5rem;
         height: 20px;
+        text-transform: uppercase;
     }
     button.active_mobile::after{
         content: "";
