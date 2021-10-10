@@ -3,6 +3,7 @@ import contentPlanet from '../../services/contentPlanet'
 import Button from '../buttons/buttonInfo';
 import { ImgStyled } from '../image/images.style';
 import style from './PlanetInfo.module.css'
+import telescope from '../../assets/img/shootingStar.gif'
 
 export default function PlanetInfo({id}){
 const getDTA = contentPlanet({elem:id})
@@ -20,7 +21,6 @@ useEffect(()=>{
     setContent(getDT['overview'])
     myFunction()
 },[id])
-console.log(type)
 
 function myFunction() {
     setTimeout(function(){ setloading(false) }, 3000)}
@@ -55,7 +55,7 @@ return(
         {
             load
             ?
-            <img alt='loading' className={style.loading} src='./assets/img/shootingStar.gif'/>
+            <img alt='loading' className={style.loading} src={telescope}/>
             :
             <ImgStyled
                 urlAft={afte}  

@@ -1,3 +1,28 @@
+import m_planet from '../assets/img/planet-mercury.svg'
+import m_internal from '../assets/img/planet-mercury-internal.svg'
+import m_geo from '../assets/img/geology-mercury.png'
+import v_planet from '../assets/img/planet-venus.svg'
+import v_internal from '../assets/img/planet-venus-internal.svg'
+import v_geo from '../assets/img/geology-venus.png'
+import e_planet from '../assets/img/planet-earth.svg'
+import e_internal from '../assets/img/planet-earth-internal.svg'
+import e_geo from '../assets/img/geology-earth.png'
+import mars_planet from '../assets/img/planet-mars.svg'
+import mars_internal from '../assets/img/planet-mars-internal.svg'
+import mars_geo from '../assets/img/geology-mars.png'
+import j_planet from '../assets/img/planet-jupiter.svg'
+import j_internal from '../assets/img/planet-jupiter-internal.svg'
+import j_geo from '../assets/img/geology-jupiter.png'
+import s_planet from '../assets/img/planet-saturn.svg'
+import s_internal from '../assets/img/planet-saturn-internal.svg'
+import s_geo from '../assets/img/geology-saturn.png'
+import n_planet from '../assets/img/planet-neptune.svg'
+import n_internal from '../assets/img/planet-neptune-internal.svg'
+import n_geo from '../assets/img/geology-neptune.png'
+import u_planet from '../assets/img/planet-uranus.svg'
+import u_internal from '../assets/img/planet-uranus-internal.svg'
+import u_geo from '../assets/img/geology-uranus.png'
+
 export default function Planets(){
     const PLANETSINFO =[
         {
@@ -19,9 +44,9 @@ export default function Planets(){
           "radius": "2,439.7 KM",
           "temperature": "430°c",
           "images": {
-            "planet": "/assets/img/planet-mercury.svg",
-            "internal": "/assets/img/planet-mercury-internal.svg",
-            "geology": "assets/img/geology-mercury.png"
+            "planet": `${m_planet}`,
+            "internal":  `${m_internal}`,
+            "geology":  `${m_geo}`
           }
         },
         {
@@ -43,9 +68,9 @@ export default function Planets(){
           "radius": "6,051.8 KM",
           "temperature": "471°c",
           "images": {
-            "planet": "/assets/img/planet-venus.svg",
-            "internal": "/assets/img/planet-venus-internal.svg",
-            "geology": "assets/img/geology-venus.png"
+            "planet": `${v_planet}`,
+            "internal":  `${v_internal}`,
+            "geology":  `${v_geo}`
           }
         },
         {
@@ -67,9 +92,9 @@ export default function Planets(){
           "radius": "6,371 KM",
           "temperature": "16°c",
           "images": {
-            "planet": "/assets/img/planet-earth.svg",
-            "internal": "/assets/img/planet-earth-internal.svg",
-            "geology": "assets/img/geology-earth.png"
+            "planet": `${e_planet}`,
+            "internal":  `${e_internal}`,
+            "geology":  `${e_geo}`
           }
         },
         {
@@ -90,10 +115,10 @@ export default function Planets(){
           "revolution": "1.88 Years",
           "radius": "3,389.5 KM",
           "temperature": "-28°c",
-          "images": {
-            "planet": "/assets/img/planet-mars.svg",
-            "internal": "/assets/img/planet-mars-internal.svg",
-            "geology": "assets/img/geology-mars.png"
+          "images": {            
+            "planet": `${mars_planet}`,
+            "internal":  `${mars_internal}`,
+            "geology":  `${mars_geo}`
           }
         },
         {
@@ -115,9 +140,10 @@ export default function Planets(){
           "radius": "69,911 KM",
           "temperature": "-108°c",
           "images": {
-            "planet": "/assets/img/planet-jupiter.svg",
-            "internal": "/assets/img/planet-jupiter-internal.svg",
-            "geology": "assets/img/geology-jupiter.png"
+                        
+            "planet": `${j_planet}`,
+            "internal":  `${j_internal}`,
+            "geology":  `${j_geo}`
           }
         },
         {
@@ -138,10 +164,10 @@ export default function Planets(){
           "revolution": "29.46 Years",
           "radius": "58,232 KM",
           "temperature": "-138°c",
-          "images": {
-            "planet": "/assets/img/planet-saturn.svg",
-            "internal": "/assets/img/planet-saturn-internal.svg",
-            "geology": "assets/img/geology-saturn.png"
+          "images": {            
+            "planet": `${s_planet}`,
+            "internal":  `${s_internal}`,
+            "geology":  `${s_geo}`
           }
         },
         {
@@ -162,10 +188,10 @@ export default function Planets(){
           "revolution": "84 Years",
           "radius": "25,362 KM",
           "temperature": "-195°c",
-          "images": {
-            "planet": "/assets/img/planet-uranus.svg",
-            "internal": "/assets/img/planet-uranus-internal.svg",
-            "geology": "assets/img/geology-uranus.png"
+          "images": {            
+            "planet": `${u_planet}`,
+            "internal":  `${u_internal}`,
+            "geology":  `${u_geo}`
           }
         },
         {
@@ -187,9 +213,9 @@ export default function Planets(){
           "radius": "24,622 KM",
           "temperature": "-201°c",
           "images": {
-            "planet": "/assets/img/planet-neptune.svg",
-            "internal": "/assets/img/planet-neptune-internal.svg",
-            "geology": "assets/img/geology-neptune.png"
+            "planet": `${n_planet}`,
+            "internal":  `${n_internal}`,
+            "geology":  `${n_geo}`
           }
         }
     ]

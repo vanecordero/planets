@@ -22,7 +22,7 @@ function App() {
       <Menu/>
       <Route
           component={Home}
-          path='/'
+          path='/planets'
         />
        <Route
           component={Earth}
@@ -56,6 +56,7 @@ function App() {
           component={Venus}
           path='/Venus'
         />
+        <div><Home/></div>
     </>
   )
 }
