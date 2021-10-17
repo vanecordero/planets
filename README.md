@@ -1,5 +1,5 @@
 <h1>Planets facts challenge</h1>
-<p>This is my solution for the challenge on <a href="https://www.frontendmentor.io/challenges/planets-fact-site-gazqN8w_f" target="_blank">Planets fact site</a>
+<p>This is my solution for the challenge on <a href="https://www.frontendmentor.io/challenges/planets-fact-site-gazqN8w_f" target="_blank">Planets fact site</a></p>
   
 <h2>Overview</h2>
   <h3>The challenge</h3>
